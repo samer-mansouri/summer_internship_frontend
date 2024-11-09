@@ -1,0 +1,4 @@
+@import '../src/assets/css/custom-scrollbar.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
